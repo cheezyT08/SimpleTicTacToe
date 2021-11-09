@@ -12,7 +12,8 @@ ___________________________
 > ``
 > java SwingTicTacToe  
 > ``  
-> After The First Time You Can Just Use   
+>   
+> After The First Time, Just Use :  
 > ``
 > java SwingTicTacToe
 > `` 
