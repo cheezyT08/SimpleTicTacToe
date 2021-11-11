@@ -6,11 +6,10 @@ ___________________________
 >
 > To Play, Press The Green Code Button And Then **Download Zip**,
 > Then Navigate To The File, Unzip It, And Run The Following Commands:  
-> ``
+> ```
 > javac SwingTicTacToeMain.java  
-> 
 > java SwingTicTacToe  
-> ``  
+> ```  
 >   
 > After The First Time, Just Use :  
 > ``
