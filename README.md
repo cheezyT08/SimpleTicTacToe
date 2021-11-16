@@ -4,15 +4,23 @@ ___________________________
 
 >A Simple PVP Tic-Tac-Toe Game.
 >
-> To Play, Press The Green Code Button And Then **Download Zip**,
-> Then Navigate To The File, Unzip It, And Run The Following Commands:  
-> ```
-> javac SwingTicTacToeMain.java  
-> java SwingTicTacToe  
-> ```  
->   
-> After The First Time, Just Use :  
-> ```
-> java SwingTicTacToe
-> ```
+> ## For Jar File:
+> > - Press The Green Code Button And Then **Download Zip**  
+> > - Unzip Folder And Navigate To The *TicTacToe* Folder
+> > - Move Shurtcut *TicTacToe* To Desired Location  
+> > - Run Shortcut  
 >
+> ## For Source Code
+> > - Press The Green Code Button And Then **Download Zip**,
+> > - Navigate To The Folder *src*, Unzip It, And Run The Following Commands:  
+> > ```
+> > javac *.java  
+> > java Main  
+> > ```  
+> >   
+> > After The First Time, Just Use : 
+> > ```
+> > java Main  
+> > ```   
+>  
+>  
